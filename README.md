@@ -1,9 +1,3 @@
-
-![](images/logo5.png)
-
-![](https://img.shields.io/badge/Uploaded-100%25-green.svg)  
-
-
 ### I designed this Challenge for you and me: Learn Deep Reinforcement Learning in Depth in 60 days!!
 
 You heard about the amazing results achieved by [Deepmind with AlphaGo Zero](https://www.youtube.com/watch?time_continue=24&v=tXlM99xPQC8) and by [OpenAI in Dota 2](https://www.youtube.com/watch?v=l92J1UvHf6M)! Don't you want to know how they work?
